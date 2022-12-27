@@ -6,6 +6,17 @@
   height: 40vmin;
   pointer-events: none;
 }
+.logo {
+  /* width: 100%; */
+  max-width: 169px;
+  height: 35px;
+  margin: 16px 16px 0px 0;
+  float: left;
+}
+.avatar {
+  float:right;
+  margin: 16px 16px 0px 0;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

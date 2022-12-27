@@ -1,0 +1,20 @@
+.New-button{
+    float:right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 15px;
+    margin-left: 15px;
+    width: 7%;
+}
+
+.ThreadList-Page {
+    padding-bottom: 2%;
+}
+
+.PageTitle {
+    float:left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
